@@ -1,5 +1,5 @@
-baseURL = "https://example.com"
-title = "HUGO.386"
+baseURL = "https://sysarmy-uruguay.github.io/sysarmyuy-website/"
+title = "sysarmyuy"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
 theme = "hugo.386"
@@ -7,16 +7,16 @@ preserveTaxonomyNames = true
 
 [params]
     # The name to display as main title in the home page
-    mainpagetitle = "HUGO.386"
+    mainpagetitle = "sysarmyuy"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "Welcome to the early 90s!" 
+    mainpagesubtitle = "Welcome SysArmy UY" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "This theme is the Hugo port of the BOOTSTRA.386 theme for a cool retro look on your blog. Check the links below to access the posts."
+    mainpagedesc = "Support for those who give support in Uruguay"
 
     # The name to display in the copyright section in the footer
-    copyrightname = "JM Fergeau"
+    copyrightname = "sysarmy"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     copyrighturl = "http://jmf-portfolio.netlify.com"
@@ -26,9 +26,9 @@ preserveTaxonomyNames = true
 
     # Urls for social networks
     facebook = "https://facebook.com"
-    twitter = "https://twitter.com"
+    twitter = "https://twitter.com/sysarmyuy"
     linkedin = "https://linkedin.com"
-    github = "https://github.com"
+    github = "https://github.com/sysarmy-uruguay"
     gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
@@ -41,7 +41,7 @@ preserveTaxonomyNames = true
     loadonepass = false
 
 [params.copyright]
-    name = "JM Fergeau"
+    name = "sysarmy UY"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
     url = "http://jmf-portfolio.netlify.com"
@@ -50,7 +50,7 @@ preserveTaxonomyNames = true
     prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
 
     # Text to go between copyright and hugo disclaimer (if enabled)
-    suffix = "Example site"
+    suffix = "our site"
 
 [menu]
   # This displays buttons in the navbar to access your contents
