@@ -25,7 +25,7 @@ preserveTaxonomyNames = true
     showhugo = true
 
     # Urls for social networks
-    facebook = "https://facebook.com"
+    instagram = "https://www.instagram.com/explore/tags/sysarmyuy/"
     twitter = "https://twitter.com/sysarmyuy"
     linkedin = "https://linkedin.com"
     github = "https://github.com/sysarmy-uruguay"
@@ -44,7 +44,7 @@ preserveTaxonomyNames = true
     name = "sysarmy UY"
 
     # The url to use as link in the copyright name in the footer. Leave empty to use none.
-    url = "http://jmf-portfolio.netlify.com"
+    url = "https://sysarmy-uruguay.github.io/sysarmyuy-website/"
 
     # Text to go before copyright information
     prefix = "[hugo.386 theme by Max le Fou](https://gitlab.com/maxlefou/hugo.386)"
