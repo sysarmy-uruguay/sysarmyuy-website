@@ -1,4 +1,4 @@
-baseURL = "http://www.sysarmy.uy/"
+baseURL = "http://www.sysarmy.uy"
 title = "sysarmyuy"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
