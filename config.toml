@@ -1,4 +1,4 @@
-baseURL = "https://sysarmy-uruguay.github.io/sysarmyuy-website/"
+baseURL = "http://www.sysarmy.uy"
 title = "sysarmyuy"
 languageCode = "en"
 DefaultContentLanguage = "en" # Change this to change the site's language
