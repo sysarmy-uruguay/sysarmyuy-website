@@ -27,9 +27,7 @@ preserveTaxonomyNames = true
     # Urls for social networks
     instagram = "https://www.instagram.com/explore/tags/sysarmyuy/"
     twitter = "https://twitter.com/sysarmyuy"
-    linkedin = "https://linkedin.com"
     github = "https://github.com/sysarmy-uruguay"
-    gitlab = "https://gitlab.com"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
