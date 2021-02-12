@@ -64,7 +64,13 @@ preserveTaxonomyNames = true
     identifier = "posts"
     name = "All posts"
     url = "/post/"       # The path can lead to a content folder too.
-    weight = 20
+    weight = 30
+
+  [[menu.main]]
+    identifier = "coc" # An unique identifier for the button
+    name = "Código de Conducta"       # A display name for the button
+    url = "/coc/"      # The path to the content. It can lead to a single page (like here)
+    weight = 20          # A number to order the buttons in the navbar
 
 [taxonomies]
 category = "categories"
