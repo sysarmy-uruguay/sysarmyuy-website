@@ -38,6 +38,9 @@ preserveTaxonomyNames = true
     # Enables or disables the second flyby cursor. Default is false.
     loadonepass = false
 
+[params.customCSS]
+  sysarmy = "./sysarmy.css"
+
 [params.copyright]
     name = "sysarmy UY"
 
